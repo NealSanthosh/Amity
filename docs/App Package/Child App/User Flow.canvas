@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"text","text":"If registered / else","id":"64b2d788eb069591","x":-145,"y":-60,"width":250,"height":60},
+		{"type":"text","text":"Amity - Child App","id":"caa48ed09d5680f9","x":-145,"y":-200,"width":250,"height":60},
+		{"type":"text","text":"The anti addiction feature is present is in this app. [[Anti Addiction Feature]]","id":"f8e013a5268ffa8c","x":294,"y":-240,"width":250,"height":140},
+		{"type":"text","text":"Hobby selection and group selection","id":"fa06eb50c222e8b1","x":-475,"y":310,"width":330,"height":60},
+		{"type":"text","text":"Account creation","id":"d1f884fc0850f187","x":-400,"y":193,"width":180,"height":60},
+		{"type":"text","text":"Registration","id":"4d9c6f38f25eb710","x":-380,"y":73,"width":140,"height":60},
+		{"type":"text","text":"Profile Creation","id":"da521ae13eb7216c","x":-175,"y":193,"width":250,"height":60},
+		{"type":"text","text":"Single Chat","id":"b9c13de5dee322c8","x":221,"y":43,"width":150,"height":60},
+		{"type":"text","text":"Home Page","id":"b653e13fe08c1809","x":226,"y":-55,"width":140,"height":50},
+		{"type":"text","text":"Group Chat","id":"3f2f7de555874f4d","x":419,"y":-60,"width":144,"height":60}
+	],
+	"edges":[
+		{"id":"d3fbf8ec00779123","fromNode":"caa48ed09d5680f9","fromSide":"bottom","toNode":"64b2d788eb069591","toSide":"top"},
+		{"id":"8571d507a9bc885b","fromNode":"4d9c6f38f25eb710","fromSide":"bottom","toNode":"d1f884fc0850f187","toSide":"top"},
+		{"id":"58db10fd57a6fbdd","fromNode":"d1f884fc0850f187","fromSide":"bottom","toNode":"fa06eb50c222e8b1","toSide":"top"},
+		{"id":"e8813032a8acf3a9","fromNode":"64b2d788eb069591","fromSide":"left","toNode":"4d9c6f38f25eb710","toSide":"top"},
+		{"id":"ef8f739051279798","fromNode":"fa06eb50c222e8b1","fromSide":"right","toNode":"da521ae13eb7216c","toSide":"bottom"},
+		{"id":"30332ccaa0a1dad9","fromNode":"64b2d788eb069591","fromSide":"right","toNode":"b653e13fe08c1809","toSide":"left"},
+		{"id":"280dea0fa5b03cf9","fromNode":"b653e13fe08c1809","fromSide":"bottom","toNode":"b9c13de5dee322c8","toSide":"top"},
+		{"id":"58df3478216c715a","fromNode":"b653e13fe08c1809","fromSide":"right","toNode":"3f2f7de555874f4d","toSide":"left"},
+		{"id":"23ee226839d5cae5","fromNode":"caa48ed09d5680f9","fromSide":"right","toNode":"f8e013a5268ffa8c","toSide":"left"},
+		{"id":"d3e4d8899ea4623c","fromNode":"da521ae13eb7216c","fromSide":"right","toNode":"b653e13fe08c1809","toSide":"left"}
+	]
+}

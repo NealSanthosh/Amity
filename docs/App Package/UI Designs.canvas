@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"file","file":"Amity/docs/Images/splash-screen.png","id":"e6272da990b34d79","x":-1140,"y":-830,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/Mobile Number.png","id":"99500c2252e0ad8f","x":-852,"y":-830,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/chats.png","id":"10470171bb92a735","x":-852,"y":-340,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/video-call.png","id":"901fa9059aae5618","x":-852,"y":160,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/profile.png","id":"0a5853d7673519d9","x":-852,"y":680,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/audio-call.png","id":"1b6e350bcb32ed88","x":-560,"y":160,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/nearby.png","id":"411d799eb6a1e710","x":-560,"y":680,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/OTP.png","id":"f609df3469723034","x":-560,"y":-830,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/messaging.png","id":"ae8abec782512a88","x":-560,"y":-340,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/recent.png","id":"b91347178144f42c","x":-280,"y":680,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/profile-setup.png","id":"2f79cea079e52332","x":-280,"y":-830,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/messaging-typing.png","id":"99389c821376ad33","x":-280,"y":-340,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/Conformation.png","id":"a238a6fcc5606dd5","x":0,"y":-830,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/messaging-attachment.png","id":"971c8c9bd52ca0be","x":0,"y":-340,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/recent-selected-contact.png","id":"e9dc89e807c0c7f5","x":0,"y":680,"width":185,"height":400},
+		{"type":"file","file":"Amity/docs/Images/Pop - up - 1.png","id":"20598b8aee11db26","x":-1640,"y":-528,"width":398,"height":98},
+		{"type":"file","file":"Amity/docs/Images/Anti - addiction.png","id":"5637e13e48afb5b7","x":-1640,"y":-830,"width":400,"height":273},
+		{"type":"file","file":"Amity/docs/Images/Pop - up - 2.png","id":"b679ec08bfeef812","x":-1640,"y":-340,"width":389,"height":400}
+	],
+	"edges":[]
+}

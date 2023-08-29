@@ -1,0 +1,1 @@
+The security feature right now is to employ a strong authorization method and make all messages and channel highly encrypted. 
